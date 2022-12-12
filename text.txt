@@ -1,0 +1,10 @@
+Привет,
+<b>Аня</b>
+<i>Это твой бот</i>
+<u>ты можешь забрать его</u>
+<s>по следующей ссылке</s>
+<a href="https://github.com/LilTenImat/tg_story_bot">https://github.com/LilTenImat/tg_story_bot</a>
+<i>Запускается в 2 комманды</i>
+<code>pip install pyTelegramBotAPI</code>
+<code>python app.py</code>
+<i>Не забудь прописать токен и текст в соответствующие файлы</i>
